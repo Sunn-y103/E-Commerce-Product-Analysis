@@ -1,6 +1,6 @@
 # 📊 E-Commerce Product Analysis using Hadoop
 
-## 🌟 Overview
+## Overview
 The **E-Commerce Product Analysis** project aims to process and analyze large scales of retail data to extract meaningful business insights and trends. By utilizing the robust Hadoop ecosystem, this project solves the problem of handling massive datasets that traditional relational databases struggle with. It empowers data-driven decision-making by revealing sales trends, identifying top-performing products, and analyzing customer purchasing behaviors.
 
 ---
@@ -82,17 +82,16 @@ The results of the executed queries are evaluated to draw actionable business in
 ## 📸 Project Screenshots
 
 ### 1. Country-wise Total Sales Revenue Analysis
-![Hadoop Screenshot](screenshots/Screenshot%202025-09-07%20143251.png)
+<img src="screenshots/Screenshot%202025-09-07%20143251.png" width="600"/>
 
 ### 2. Sales Revenue Distribution Visualization
-![Hive Screenshot](screenshots/Screenshot%202025-09-07%20143634.png)
+<img src="screenshots/Screenshot%202025-09-07%20143634.png" width="600"/>
 
 ### 3. Hive Query Results – Country Revenue Aggregation
-![Query Screenshot](screenshots/Screenshot%202025-10-12%20190229.png)
+<img src="screenshots/Screenshot%202025-10-12%20190229.png" width="600"/>
 
 ### 4. Hive Query Execution in Apache Hive Interface
-![Analysis Screenshot](screenshots/to10_most_sold_products.png)
-
+<img src="screenshots/to10_most_sold_products.png" width="600"/>
 ---
 
 ## 🧠 Key Learnings
